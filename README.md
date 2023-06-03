@@ -1,5 +1,5 @@
 # Hey 👋
-<img align="right" src="https://github.com/pedrolink/pedrolink/blob/main/image/computer.png" width="350"/>
+<img align="right" src="https://github.com/alescastro/alescastro/blob/main/computer.png" width="350"/>
 
 My name is Alexandre Steffen Castro. 
 
