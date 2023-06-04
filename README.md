@@ -5,7 +5,7 @@ My name is Alexandre Steffen Castro.
 
 I'm a beginning student. 💻
 
- - 📍 From Braizl, living in Erechim, RS
+ - 📍 From Brazil, living in Erechim, RS
  - 👨🏼‍💻 Bachelor's Degree in Computer Science at [URI Erechim](https://www.uricer.edu.br/)
  
  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://br.linkedin.com/in/alexandre-steffen-castro-3731881b3/)](https://br.linkedin.com/in/alexandre-steffen-castro-3731881b3/) 
